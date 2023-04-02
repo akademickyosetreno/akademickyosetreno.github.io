@@ -10,11 +10,9 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Leni Krsova
   pic: 1
-  position: Lead Designer
+  position: Výzkumnice a herní designérka
   social:
     - title: twitter
-      url: #
-    - title: facebook
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
