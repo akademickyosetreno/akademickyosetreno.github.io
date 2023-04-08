@@ -2,7 +2,7 @@ url:
 baseurl: https://akademickyosetreno.github.io
 
 # Site settings
-title: Leni Krsová - školení o algoritmech a umělé inteligenci nejen na sítích a ve hrách
+title: Leni Krsová - školení o algoritmech a umělé inteligenci
 email: l.krsova@gmail.com
 description: "Semináře a školení o algoritmech na sociálních sítích, šíření informací, a umělé inteligenci obecně"
 
@@ -22,7 +22,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - Praha, Česká republika
+  - line: Praha, Česká republika
   - line: IČO: 07939175
 
 # Build settings
