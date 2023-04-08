@@ -8,7 +8,7 @@ description: "Semináře a školení o algoritmech na sociálních sítích, š�
 
 # Team names, titles and social links
 people:
-- name: Leni Krsová
+- name: Leni Krsova
   pic: 1
   position: Výzkumnice a herní designérka
   social:
@@ -23,7 +23,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Praha, Česká republika
-  - line: IČO: 07939175
+  - line: IČ 07939175
 
 # Build settings
 markdown: kramdown
